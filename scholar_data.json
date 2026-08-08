@@ -1,0 +1,818 @@
+{
+  "profile": {
+    "name": "Nak Cho Choi",
+    "stats": {
+      "서지정보": "813",
+      "h-index": "14",
+      "i10-index": "22"
+    },
+    "fields": [
+      "Micro LED",
+      "OLED",
+      "LCD"
+    ],
+    "total_publications_visible": 20
+  },
+  "publications": [
+    {
+      "title": "Display apparatus and manufacturing method thereof",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&citation_for_view=RUPcxioAAAAJ:R3hNpaxXUhUC",
+      "year": "2017",
+      "citations": "139",
+      "authors": "YT KIM, HK Lee, S Kim, N CHOI",
+      "venue": "US Patent 9,846,323, 2017"
+    },
+    {
+      "title": "Display substrate and liquid crystal display device comprising the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&citation_for_view=RUPcxioAAAAJ:_xSYboBqXhAC",
+      "year": "2019",
+      "citations": "59",
+      "authors": "YIM Taekyung, WOO SuWan, P Keunwoo, C Nakcho",
+      "venue": "US Patent 10,168,578, 2019"
+    },
+    {
+      "title": "Liquid crystal display and thin film transistor array panel",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&citation_for_view=RUPcxioAAAAJ:WF5omc3nYNoC",
+      "year": "2005",
+      "citations": "55",
+      "authors": "YS Um, NC Choi, J Lyu, JH Lee, YJ Rhee, MJ Park, J Song",
+      "venue": "US Patent 6,940,573, 2005"
+    },
+    {
+      "title": "Organic light emitting diode display",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&citation_for_view=RUPcxioAAAAJ:_Qo2XoVZTnwC",
+      "year": "2018",
+      "citations": "40",
+      "authors": "K Ebisuno, YH YANG, JH Lee, NC CHOI",
+      "venue": "US Patent App. 15/582,908, 2018"
+    },
+    {
+      "title": "Liquid crystal display and thin film transistor array panel",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&citation_for_view=RUPcxioAAAAJ:isC4tDSrTZIC",
+      "year": "2006",
+      "citations": "26",
+      "authors": "YS Um, NC Choi, J Lyu, JH Lee, YJ Rhee, MJ Park, J Song",
+      "venue": "US Patent 7,019,806, 2006"
+    },
+    {
+      "title": "Liquid crystal display and panel therefor",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&citation_for_view=RUPcxioAAAAJ:TQgYirikUcIC",
+      "year": "2010",
+      "citations": "25",
+      "authors": "NC Choi, J Lyu, C Lee, DK Lee, HS Chang, SJ Kim, HW Do, JG Lu, ...",
+      "venue": "US Patent 7,697,096, 2010"
+    },
+    {
+      "title": "Liquid crystal display and manufacturing method thereof",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&citation_for_view=RUPcxioAAAAJ:Zph67rFs4hoC",
+      "year": "2014",
+      "citations": "22",
+      "authors": "SH WON, YJ CHO, KT CHAE, NC CHOI",
+      "venue": "US Patent 8,908,126, 2014"
+    },
+    {
+      "title": "Display device and method of manufacturing the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&citation_for_view=RUPcxioAAAAJ:EUQCXRtRnyEC",
+      "year": "2015",
+      "citations": "20",
+      "authors": "C Nakcho, J cheol Park, MW Lee",
+      "venue": "US Patent 9,207,472, 2015"
+    },
+    {
+      "title": "Liquid crystal display and thin film transistor array panel",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&citation_for_view=RUPcxioAAAAJ:MXK_kJrjxJIC",
+      "year": "2006",
+      "citations": "20",
+      "authors": "YS Um, NC Choi, J Lyu, JH Lee, YJ Rhee, MJ Park, J Song",
+      "venue": "US Patent 7,079,210, 2006"
+    },
+    {
+      "title": "Efficient dermal delivery of retinyl palmitate: Progressive polarimetry and Raman spectroscopy to evaluate the structure and efficacy",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&citation_for_view=RUPcxioAAAAJ:4fKUyHm3Qg0C",
+      "year": "2015",
+      "citations": "17",
+      "authors": "JB Lee, DR Lee, NC Choi, J Jang, CH Park, MS Yoon, M Lee, K Won, ...",
+      "venue": "European Journal of Pharmaceutical Sciences 78, 111-120, 2015"
+    },
+    {
+      "title": "Display panel, display apparatus having the same, method of manufacturing the same and method of cutting the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&citation_for_view=RUPcxioAAAAJ:Tyk-4Ss8FVUC",
+      "year": "2012",
+      "citations": "17",
+      "authors": "MW Lee, YEO Inseok, YU Donghyun, NC Choi, K Pil-Sook, YUN Hae-Ju, ...",
+      "venue": "US Patent App. 13/116,170, 2012"
+    },
+    {
+      "title": "Liquid crystal display and driving method thereof",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&citation_for_view=RUPcxioAAAAJ:aqlVkmm33-oC",
+      "year": "2006",
+      "citations": "17",
+      "authors": "HW Do, JW Sohn, NC Choi, J Lu, HS Chang, C Lee",
+      "venue": "US Patent App. 11/349,505, 2006"
+    },
+    {
+      "title": "Liquid crystal display with wide viewing angle",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&citation_for_view=RUPcxioAAAAJ:mVmsd5A6BfQC",
+      "year": "2005",
+      "citations": "16",
+      "authors": "MH Jung, NC Choi, DH You, J Lyu",
+      "venue": "US Patent App. 11/145,303, 2005"
+    },
+    {
+      "title": "Liquid crystal display and panel therefor",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&citation_for_view=RUPcxioAAAAJ:bEWYMUwI8FkC",
+      "year": "2006",
+      "citations": "15",
+      "authors": "HK Lee, DK Lee, J Lyu, NC Choi",
+      "venue": "US Patent App. 11/195,540, 2006"
+    },
+    {
+      "title": "Liquid crystal display having cutout arranged at pixel electrode with specific position from cutout arranged at common electrode, and driving method thereof",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&citation_for_view=RUPcxioAAAAJ:5nxA0vEk-isC",
+      "year": "2010",
+      "citations": "13",
+      "authors": "HS Chang, JW Sohn, NC Choi, HW Kim, C Lee, J Lyu",
+      "venue": "US Patent 7,839,369, 2010"
+    },
+    {
+      "title": "Liquid crystal display and thin film transistor array panel",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&citation_for_view=RUPcxioAAAAJ:ldfaerwXgEUC",
+      "year": "2006",
+      "citations": "12",
+      "authors": "YS Um, NC Choi, J Lyu, JH Lee, YJ Rhee, MJ Park, J Song",
+      "venue": "US Patent App. 11/451,243, 2006"
+    },
+    {
+      "title": "Liquid crystal display and manufacturing method thereof",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&citation_for_view=RUPcxioAAAAJ:3fE2CSJIrl8C",
+      "year": "2005",
+      "citations": "12",
+      "authors": "NC Choi",
+      "venue": "US Patent App. 11/134,268, 2005"
+    },
+    {
+      "title": "Display device having pixel-defining layers",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&citation_for_view=RUPcxioAAAAJ:LPZeul_q3PIC",
+      "year": "2023",
+      "citations": "11",
+      "authors": "C Nakcho, D KWEON, AN Chiwook, Y Jung",
+      "venue": "US Patent 11,849,605, 2023"
+    },
+    {
+      "title": "Display device and manufacturing method thereof",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&citation_for_view=RUPcxioAAAAJ:Fu2w8maKXqMC",
+      "year": "2018",
+      "citations": "11",
+      "authors": "YH YANG, HW Yang, NC CHOI, HS Shin, JH Lee",
+      "venue": "US Patent App. 15/491,448, 2018"
+    },
+    {
+      "title": "Display device having transmission area and electronic apparatus",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&citation_for_view=RUPcxioAAAAJ:8AbLer7MMksC",
+      "year": "2022",
+      "citations": "10",
+      "authors": "C Nakcho, D KWEON, RYU Minyeul",
+      "venue": "US Patent 11,538,880, 2022"
+    },
+    {
+      "title": "Unitary display pannel and method of manufacturing the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=20&citation_for_view=RUPcxioAAAAJ:35N4QoGY0k4C",
+      "year": "2013",
+      "citations": "10",
+      "authors": "YJ Cho, JC Goh, YT Kim, NC Choi",
+      "venue": "US Patent App. 13/668,015, 2013"
+    },
+    {
+      "title": "Method of forming an alignment layer, and apparatus for forming the alignment layer",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=20&citation_for_view=RUPcxioAAAAJ:ZeXyd9-uunAC",
+      "year": "2012",
+      "citations": "10",
+      "authors": "J Jung, NC Choi",
+      "venue": "US Patent 8,125,598, 2012"
+    },
+    {
+      "title": "Organic light emitting display device and method of manufacturing the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=20&citation_for_view=RUPcxioAAAAJ:K3LRdlH-MEoC",
+      "year": "2021",
+      "citations": "9",
+      "authors": "C Nakcho, KH Nam, DG KWEON, MY RYU",
+      "venue": "US Patent App. 16/928,598, 2021"
+    },
+    {
+      "title": "Display device and method of manufacturing the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=20&citation_for_view=RUPcxioAAAAJ:qjMakFHDy7sC",
+      "year": "2012",
+      "citations": "9",
+      "authors": "NC Choi, SW Kim, HK Lee",
+      "venue": "US Patent 8,149,343, 2012"
+    },
+    {
+      "title": "Liquid crystal display",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=20&citation_for_view=RUPcxioAAAAJ:roLk4NBRz8UC",
+      "year": "2007",
+      "citations": "9",
+      "authors": "NC Choi, JW Sohn, MH Jung, H Byun, S Cho",
+      "venue": "US Patent App. 11/567,006, 2007"
+    },
+    {
+      "title": "Display panel and electronic device including portion of overcoat layer between light-blocking portion and color filter",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=20&citation_for_view=RUPcxioAAAAJ:D_sINldO8mEC",
+      "year": "2025",
+      "citations": "8",
+      "authors": "CHO Seongmin, B Choi, AN Chiwook, C Im, C Nakcho",
+      "venue": "US Patent 12,268,055, 2025"
+    },
+    {
+      "title": "Display device",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=20&citation_for_view=RUPcxioAAAAJ:eflP2zaiRacC",
+      "year": "2024",
+      "citations": "8",
+      "authors": "SW SON, NC CHOI, MS KO, DH SON, SH Oh, JG Jung, KH Choi, HY LEE, ...",
+      "venue": "US Patent 11,956,997, 2024"
+    },
+    {
+      "title": "Display device",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=20&citation_for_view=RUPcxioAAAAJ:8k81kl-MbHgC",
+      "year": "2018",
+      "citations": "8",
+      "authors": "NC CHOI, SW WOO, S Choi",
+      "venue": "US Patent 10,082,694, 2018"
+    },
+    {
+      "title": "Display substrate and liquid crystal display panel having the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=20&citation_for_view=RUPcxioAAAAJ:ULOm3_A8WrAC",
+      "year": "2010",
+      "citations": "8",
+      "authors": "NC Choi, HR Bae, MH Jung",
+      "venue": "US Patent App. 12/488,340, 2010"
+    },
+    {
+      "title": "Light absorption layer for a display device",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=20&citation_for_view=RUPcxioAAAAJ:vRqMK49ujn8C",
+      "year": "2012",
+      "citations": "7",
+      "authors": "NC Choi, M Kang, H Kang",
+      "venue": "US Patent 8,149,357, 2012"
+    },
+    {
+      "title": "Reduction of residual DC voltage via RC matching in LCD",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=20&citation_for_view=RUPcxioAAAAJ:u-x6o8ySG0sC",
+      "year": "2018",
+      "citations": "6",
+      "authors": "N Choi, J Jung, B Cheong, H Yoon, MP Hong",
+      "venue": "Materials Research Express 5 (12), 126305, 2018"
+    },
+    {
+      "title": "Liquid crystal display and method of manufacturing the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=20&citation_for_view=RUPcxioAAAAJ:zYLM7Y9cAGgC",
+      "year": "2016",
+      "citations": "6",
+      "authors": "HS LEE, TG Kim, WY Sung, NC CHOI, SG Choi, SK Kim, TW CHA",
+      "venue": "US Patent 9,429,796, 2016"
+    },
+    {
+      "title": "Display device and manufacturing method thereof",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=20&citation_for_view=RUPcxioAAAAJ:Se3iqnhoufwC",
+      "year": "2015",
+      "citations": "6",
+      "authors": "NC CHOI, YT KIM",
+      "venue": "US Patent 9,007,550, 2015"
+    },
+    {
+      "title": "Liquid crystal display and method for manufacturing the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=20&citation_for_view=RUPcxioAAAAJ:xtRiw3GOFMkC",
+      "year": "2011",
+      "citations": "6",
+      "authors": "KIM Jang-Kyum, HK Lee, NC Choi",
+      "venue": "US Patent App. 12/906,962, 2011"
+    },
+    {
+      "title": "Liquid crystal display",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=20&citation_for_view=RUPcxioAAAAJ:KlAtU1dfN6UC",
+      "year": "2007",
+      "citations": "6",
+      "authors": "JW Sohn, MH Jung, NC Choi, H Byun, S Cho, SY Jo",
+      "venue": "US Patent App. 11/566,809, 2007"
+    },
+    {
+      "title": "Liquid crystal display",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=20&citation_for_view=RUPcxioAAAAJ:RHpTSmoSYBkC",
+      "year": "2006",
+      "citations": "6",
+      "authors": "NC Choi, JW Sohn, CC Chai, HS Kim",
+      "venue": "US Patent App. 11/387,267, 2006"
+    },
+    {
+      "title": "Liquid crystal display and panel therefor",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=20&citation_for_view=RUPcxioAAAAJ:RGFaLdJalmkC",
+      "year": "2005",
+      "citations": "6",
+      "authors": "NC Choi, DH You, MH Jung",
+      "venue": "US Patent App. 11/110,875, 2005"
+    },
+    {
+      "title": "Display device and tiled display device including the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=20&citation_for_view=RUPcxioAAAAJ:Mojj43d5GZwC",
+      "year": "2023",
+      "citations": "5",
+      "authors": "NC CHOI, SW An, YD SON, MK Hur",
+      "venue": "US Patent App. 17/890,937, 2023"
+    },
+    {
+      "title": "Liquid crystal display and manufacturing method thereof",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=20&citation_for_view=RUPcxioAAAAJ:d1gkVwhDpl0C",
+      "year": "2015",
+      "citations": "5",
+      "authors": "V Prushinskiy, TW Kang, MS Kim, L Kaplan, NC CHOI",
+      "venue": "US Patent App. 14/174,398, 2015"
+    },
+    {
+      "title": "Method of manufacturing display apparatus and display apparatus",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=20&citation_for_view=RUPcxioAAAAJ:70eg2SAEIzsC",
+      "year": "2012",
+      "citations": "5",
+      "authors": "C Nakcho, HK Lee, H Yun",
+      "venue": "US Patent App. 13/197,934, 2012"
+    },
+    {
+      "title": "Liquid crystal display having particular tilt direction determining members",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=40&citation_for_view=RUPcxioAAAAJ:BqipwSGYUEgC",
+      "year": "2008",
+      "citations": "5",
+      "authors": "HS Chang, JW Sohn, NC Choi, HW Kim",
+      "venue": "US Patent 7,471,365, 2008"
+    },
+    {
+      "title": "Liquid crystal display and manufacturing method of the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=40&citation_for_view=RUPcxioAAAAJ:zA6iFVUQeVQC",
+      "year": "2006",
+      "citations": "5",
+      "authors": "JW Sohn, NC Choi",
+      "venue": "US Patent App. 11/359,230, 2006"
+    },
+    {
+      "title": "Display device including planarization layer contacting light blocking portion and color filter layer",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=40&citation_for_view=RUPcxioAAAAJ:fQNAKQ3IYiAC",
+      "year": "2024",
+      "citations": "4",
+      "authors": "NC CHOI, BM OH, EJ LEE, HY Yun",
+      "venue": "US Patent 12,029,094, 2024"
+    },
+    {
+      "title": "Display device and manufacturing method of manufacturing the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=40&citation_for_view=RUPcxioAAAAJ:eMMeJKvmdy0C",
+      "year": "2023",
+      "citations": "4",
+      "authors": "NC CHOI, SW An",
+      "venue": "US Patent App. 18/048,135, 2023"
+    },
+    {
+      "title": "Display device",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=40&citation_for_view=RUPcxioAAAAJ:5Ul4iDaHHb8C",
+      "year": "2022",
+      "citations": "4",
+      "authors": "DH SON, SH Cho, DW Kim, MY RYU, KH BANG, NC CHOI",
+      "venue": "US Patent 11,515,383, 2022"
+    },
+    {
+      "title": "Liquid crystal display device",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=40&citation_for_view=RUPcxioAAAAJ:ns9cj8rnVeAC",
+      "year": "2018",
+      "citations": "4",
+      "authors": "C Nakcho, I HWANG, H Kim, YIM Taekyung, J CHONG",
+      "venue": "US Patent 9,857,640, 2018"
+    },
+    {
+      "title": "Display device",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=40&citation_for_view=RUPcxioAAAAJ:YFjsv_pBGBYC",
+      "year": "2015",
+      "citations": "4",
+      "authors": "JW CHO, NC CHOI",
+      "venue": "US Patent App. 14/221,061, 2015"
+    },
+    {
+      "title": "Polarizer, liquid crystal display and manufacturing method thereof",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=40&citation_for_view=RUPcxioAAAAJ:TFP_iSt0sucC",
+      "year": "2014",
+      "citations": "4",
+      "authors": "NC CHOI, J cheol Park, SB Park, GE EOH, Y Jang",
+      "venue": "US Patent App. 14/071,554, 2014"
+    },
+    {
+      "title": "Liquid crystal display and driving method thereof",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=40&citation_for_view=RUPcxioAAAAJ:r0BpntZqJG4C",
+      "year": "2011",
+      "citations": "4",
+      "authors": "HW Do, JW Sohn, NC Choi, J Lu, HS Chang, C Lee",
+      "venue": "US Patent App. 12/880,664, 2011"
+    },
+    {
+      "title": "Liquid crystal display with wide viewing angle with overlapping coupling electrodes forming capacitor interconnecting sub-pixel electrodes",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=40&citation_for_view=RUPcxioAAAAJ:qUcmZB5y_30C",
+      "year": "2010",
+      "citations": "4",
+      "authors": "MH Jung, NC Choi, DH You, J Lyu",
+      "venue": "US Patent 7,787,100, 2010"
+    },
+    {
+      "title": "Color display",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=40&citation_for_view=RUPcxioAAAAJ:tS2w5q8j5-wC",
+      "year": "2010",
+      "citations": "4",
+      "authors": "SJ Rho, HK Lee, BK Jeon, NC Choi",
+      "venue": "US Patent App. 12/415,279, 2010"
+    },
+    {
+      "title": "P‐205L: Late‐News Poster: The Study of the Correlation between Surface Anchoring Energy and Activation Energy on Patterned Vertical Alignment (PVA) Mode",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=40&citation_for_view=RUPcxioAAAAJ:pyW8ca7W8N0C",
+      "year": "2007",
+      "citations": "4",
+      "authors": "J You, J Jung, N Choi, K Rhie, S Shin",
+      "venue": "SID Symposium Digest of Technical Papers 38 (1), 673-676, 2007"
+    },
+    {
+      "title": "Color filter substrate, liquid crystal display panel including the same and manufacture method thereof",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=40&citation_for_view=RUPcxioAAAAJ:UebtZRa9Y70C",
+      "year": "2007",
+      "citations": "4",
+      "authors": "JW Sohn, NC Choi",
+      "venue": "US Patent App. 11/451,861, 2007"
+    },
+    {
+      "title": "Display device and tiled display device",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=40&citation_for_view=RUPcxioAAAAJ:AXPGKjj_ei8C",
+      "year": "2023",
+      "citations": "3",
+      "authors": "NC CHOI, YD SON, SW An, KU LEE",
+      "venue": "US Patent App. 18/158,958, 2023"
+    },
+    {
+      "title": "Display apparatus and electronic device including the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=40&citation_for_view=RUPcxioAAAAJ:J-pR_7NvFogC",
+      "year": "2022",
+      "citations": "3",
+      "authors": "C Nakcho, T Lee, Y In",
+      "venue": "US Patent App. 17/674,663, 2022"
+    },
+    {
+      "title": "Organic light emitting diode display",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=40&citation_for_view=RUPcxioAAAAJ:sSrBHYA8nusC",
+      "year": "2021",
+      "citations": "3",
+      "authors": "K Ebisuno, YH YANG, JH Lee, NC CHOI",
+      "venue": "US Patent App. 17/197,449, 2021"
+    },
+    {
+      "title": "Array substrate and liquid crystal display device including the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=40&citation_for_view=RUPcxioAAAAJ:YsMSGLbcyi4C",
+      "year": "2020",
+      "citations": "3",
+      "authors": "JG Chong, NC CHOI, JH CHOI",
+      "venue": "US Patent 10,551,707, 2020"
+    },
+    {
+      "title": "Bonding apparatus and method of bonding component on substrate using the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=40&citation_for_view=RUPcxioAAAAJ:eQOLeE2rZwMC",
+      "year": "2015",
+      "citations": "3",
+      "authors": "MW Lee, C Nakcho, D Song, W Lee",
+      "venue": "US Patent 9,126,393, 2015"
+    },
+    {
+      "title": "Reflective liquid crystal display and manufacturing method of the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=40&citation_for_view=RUPcxioAAAAJ:RYcK_YlVTxYC",
+      "year": "2011",
+      "citations": "3",
+      "authors": "NC Choi, F Takeshita",
+      "venue": "US Patent 8,004,646, 2011"
+    },
+    {
+      "title": "Method of manufacturing display device",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=40&citation_for_view=RUPcxioAAAAJ:NaGl4SEjCO4C",
+      "year": "2011",
+      "citations": "3",
+      "authors": "HK Lee, C Nakcho, T Jung, SJ Baek",
+      "venue": "US Patent App. 12/639,816, 2011"
+    },
+    {
+      "title": "Alignment substrate, method of manufacturing the alignment substrate and liquid crystal display device having the alignment substrate",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=60&citation_for_view=RUPcxioAAAAJ:l7t_Zn2s7bgC",
+      "year": "2010",
+      "citations": "3",
+      "authors": "NC Choi, BS Seo, YG Kim, MS Jung, TS Jung, BH Sung, SY KIM",
+      "venue": "US Patent App. 12/535,794, 2010"
+    },
+    {
+      "title": "Liquid crystal display",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=60&citation_for_view=RUPcxioAAAAJ:UeHWp8X0CEIC",
+      "year": "2007",
+      "citations": "3",
+      "authors": "S Cho, JW Sohn, NC Choi",
+      "venue": "US Patent App. 11/736,380, 2007"
+    },
+    {
+      "title": "Liquid crystal display",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=60&citation_for_view=RUPcxioAAAAJ:_FxGoFyzp5QC",
+      "year": "2007",
+      "citations": "3",
+      "authors": "HW Do, YS Um, HS Chang, SH Yoo, HW Kim, JW Sohn, NC Choi",
+      "venue": "US Patent App. 11/528,837, 2007"
+    },
+    {
+      "title": "Liquid crystal display",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=60&citation_for_view=RUPcxioAAAAJ:e5wmG9Sq2KIC",
+      "year": "2006",
+      "citations": "3",
+      "authors": "JW Sohn, NC Choi, J Lyu",
+      "venue": "US Patent App. 11/364,947, 2006"
+    },
+    {
+      "title": "15.1: A Novel VA Architecture for Improved Response Time",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=60&citation_for_view=RUPcxioAAAAJ:IjCSPb-OGe4C",
+      "year": "2006",
+      "citations": "3",
+      "authors": "J Sohn, N Choi, C Huh, DK Lee, J Yoon, MS Jung, J Lyu, KH Kim, ...",
+      "venue": "SID Symposium Digest of Technical Papers 37 (1), 1063-1066, 2006"
+    },
+    {
+      "title": "Display device including light blocking layer, metal blocking layer, and inorganic insulating layer",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=60&citation_for_view=RUPcxioAAAAJ:JoZmwDi-zQgC",
+      "year": "2025",
+      "citations": "2",
+      "authors": "SW SON, NC CHOI, MS KO, DH SON, SH Oh, JG Jung, KH Choi, HY LEE, ...",
+      "venue": "US Patent 12,302,701, 2025"
+    },
+    {
+      "title": "Display device",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=60&citation_for_view=RUPcxioAAAAJ:VOx2b1Wkg3QC",
+      "year": "2025",
+      "citations": "2",
+      "authors": "JH Lee, NC CHOI, MY RYU, DK Lee, CY Im, BR Choi",
+      "venue": "US Patent 12,295,220, 2025"
+    },
+    {
+      "title": "Display device",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=60&citation_for_view=RUPcxioAAAAJ:pqnbT2bcN3wC",
+      "year": "2019",
+      "citations": "2",
+      "authors": "TK YIM, SW WOO, YG Yoon, NC CHOI",
+      "venue": "US Patent 10,466,548, 2019"
+    },
+    {
+      "title": "62‐4: Late‐News Paper: Evaluation of polycrystalline silicon after Excimer laser annealing by Retardation measurement method",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=60&citation_for_view=RUPcxioAAAAJ:eq2jaN3J8jMC",
+      "year": "2019",
+      "citations": "2",
+      "authors": "N Choi, E Kim, KH Nam, D Kim, BR Choi",
+      "venue": "SID Symposium Digest of Technical Papers 50 (1), 885-887, 2019"
+    },
+    {
+      "title": "Liquid crystal display device",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=60&citation_for_view=RUPcxioAAAAJ:HoB7MX3m0LUC",
+      "year": "2017",
+      "citations": "2",
+      "authors": "NC CHOI, JH Hwang, SW WOO, YG Yoon, JH CHOI",
+      "venue": "US Patent App. 15/063,113, 2017"
+    },
+    {
+      "title": "Development of Black-Pixel Define Layer with Half-Tone Spacer Structure for Stylus-Compatible Foldable OLED Displays",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=60&citation_for_view=RUPcxioAAAAJ:VL0QpB8kHFEC",
+      "year": "2025",
+      "citations": "1",
+      "authors": "KL Nakcho Choi, Daegi Kweon, Junyoung Kim, Youngin Hwang",
+      "venue": "SID Symposium Digest of Technical Papers 56 (1), 2025"
+    },
+    {
+      "title": "Display device and tiled display device including the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=60&citation_for_view=RUPcxioAAAAJ:_B80troHkn4C",
+      "year": "2024",
+      "citations": "1",
+      "authors": "NC CHOI, JS Kim, MK Hur",
+      "venue": "US Patent 12,080,225, 2024"
+    },
+    {
+      "title": "Display device",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=60&citation_for_view=RUPcxioAAAAJ:5ugPr518TE4C",
+      "year": "2023",
+      "citations": "1",
+      "authors": "DH SON, SH Cho, DW Kim, MY RYU, KH BANG, NC CHOI",
+      "venue": "US Patent 11,800,763, 2023"
+    },
+    {
+      "title": "Display device and manufacturing method of the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=60&citation_for_view=RUPcxioAAAAJ:tkaPQYYpVKoC",
+      "year": "2023",
+      "citations": "1",
+      "authors": "YD SON, WB BAEK, SW An, KU LEE, NC CHOI",
+      "venue": "US Patent App. 18/184,561, 2023"
+    },
+    {
+      "title": "Display device and tiled display device",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=60&citation_for_view=RUPcxioAAAAJ:t6usbXjVLHcC",
+      "year": "2023",
+      "citations": "1",
+      "authors": "NC CHOI, BK Choi, JP LEE, S Park, MC Shin, SW An",
+      "venue": "US Patent App. 18/080,413, 2023"
+    },
+    {
+      "title": "Display device",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=60&citation_for_view=RUPcxioAAAAJ:kRWSkSYxWN8C",
+      "year": "2022",
+      "citations": "1",
+      "authors": "NC CHOI, DG KWEON, JH Kim, KH Nam, MY RYU, SH Yu, JH Lee, ...",
+      "venue": "US Patent App. 17/713,034, 2022"
+    },
+    {
+      "title": "Microscopic-stress-induced retardation between amorphous silicon nitride and amorphous indium zinc oxide having different stresses",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=60&citation_for_view=RUPcxioAAAAJ:0EnyYjriUFMC",
+      "year": "2019",
+      "citations": "1",
+      "authors": "N Choi, T Yim, Y Yoon, B Cheong, MP Hong",
+      "venue": "Materials Research Express 6 (4), 045209, 2019"
+    },
+    {
+      "title": "LCD device including coupling capacitor and method of manufacturing the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=60&citation_for_view=RUPcxioAAAAJ:JV2RwH3_ST0C",
+      "year": "2018",
+      "citations": "1",
+      "authors": "C Nakcho, P Seiyong, KIM Changok",
+      "venue": "US Patent 9,977,296, 2018"
+    },
+    {
+      "title": "Liquid crystal display",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=60&citation_for_view=RUPcxioAAAAJ:GnPB-g6toBAC",
+      "year": "2017",
+      "citations": "1",
+      "authors": "TH Kang, HR Park, YJ Kim, D il Yoo, TK YIM, NC CHOI",
+      "venue": "US Patent 9,846,339, 2017"
+    },
+    {
+      "title": "Liquid crystal display",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=60&citation_for_view=RUPcxioAAAAJ:W7OEmFMy1HYC",
+      "year": "2016",
+      "citations": "1",
+      "authors": "WS Im, HC Lee, NC CHOI, YW HYUNG",
+      "venue": "US Patent App. 14/809,535, 2016"
+    },
+    {
+      "title": "Display apparatus and method of manufacturing the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=80&citation_for_view=RUPcxioAAAAJ:M3NEmzRMIkIC",
+      "year": "2011",
+      "citations": "1",
+      "authors": "HK Lee, C Nakcho, T Jung, H Yun",
+      "venue": "US Patent App. 12/691,883, 2011"
+    },
+    {
+      "title": "Liquid crystal display and manufacturing method thereof",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=80&citation_for_view=RUPcxioAAAAJ:hC7cP41nSMkC",
+      "year": "2009",
+      "citations": "1",
+      "authors": "NC Choi",
+      "venue": "US Patent App. 12/252,494, 2009"
+    },
+    {
+      "title": "Liquid crystal display and panel therefor",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=80&citation_for_view=RUPcxioAAAAJ:j3f4tGmQtD8C",
+      "year": "2007",
+      "citations": "1",
+      "authors": "MH Kye, NC Choi, C Lee, SH Hong, IK Huh",
+      "venue": "US Patent App. 11/424,114, 2007"
+    },
+    {
+      "title": "Display device including a light control layer, automobile, and method for manufacturing display device",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=80&citation_for_view=RUPcxioAAAAJ:uLbwQdceFCQC",
+      "year": "2026",
+      "citations": "",
+      "authors": "NC CHOI, K San Kim, KS Jang",
+      "venue": "US Patent App. 19/172,177, 2026"
+    },
+    {
+      "title": "Display panel and display apparatus including the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=80&citation_for_view=RUPcxioAAAAJ:JQOojiI6XY0C",
+      "year": "2026",
+      "citations": "",
+      "authors": "C Nakcho, D KWEON, CHO Seongmin, AN Chiwook",
+      "venue": "US Patent App. 19/385,502, 2026"
+    },
+    {
+      "title": "Light emitting display device",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=80&citation_for_view=RUPcxioAAAAJ:UHK10RUVsp4C",
+      "year": "2026",
+      "citations": "",
+      "authors": "NC CHOI, TG Lee, KS Lee, YK In",
+      "venue": "US Patent App. 19/343,409, 2026"
+    },
+    {
+      "title": "Display device, electronic device including display device, and method of manufacturing display device",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=80&citation_for_view=RUPcxioAAAAJ:dQ2og3OwTAUC",
+      "year": "2026",
+      "citations": "",
+      "authors": "NC CHOI, WM PARK, JS Park",
+      "venue": "US Patent App. 19/086,799, 2026"
+    },
+    {
+      "title": "Display apparatus and electronic device including the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=80&citation_for_view=RUPcxioAAAAJ:hkOj_22Ku90C",
+      "year": "2026",
+      "citations": "",
+      "authors": "C Nakcho, T Lee, Y In",
+      "venue": "US Patent App. 19/347,137, 2026"
+    },
+    {
+      "title": "Display device and electronic device including the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=80&citation_for_view=RUPcxioAAAAJ:PR6Y55bgFSsC",
+      "year": "2026",
+      "citations": "",
+      "authors": "K San Kim, NC CHOI, BY PARK",
+      "venue": "US Patent App. 19/056,980, 2026"
+    },
+    {
+      "title": "Display device and method of manufacturing the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=80&citation_for_view=RUPcxioAAAAJ:Y5dfb0dijaUC",
+      "year": "2026",
+      "citations": "",
+      "authors": "NC CHOI, SW An",
+      "venue": "US Patent 12,525,592, 2026"
+    },
+    {
+      "title": "Display panel and electronic apparatus",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=80&citation_for_view=RUPcxioAAAAJ:V3AGJWp-ZtQC",
+      "year": "2026",
+      "citations": "",
+      "authors": "C Nakcho, D KWEON",
+      "venue": "US Patent 12,520,693, 2026"
+    },
+    {
+      "title": "Display device and tiled display device including the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=80&citation_for_view=RUPcxioAAAAJ:HE397vMXCloC",
+      "year": "2025",
+      "citations": "",
+      "authors": "KU LEE, NC CHOI, SW An, YD SON, JH Hwang, MK Hur",
+      "venue": "US Patent 12,500,216, 2025"
+    },
+    {
+      "title": "Display panel and display apparatus including the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=80&citation_for_view=RUPcxioAAAAJ:eJXPG6dFmWUC",
+      "year": "2025",
+      "citations": "",
+      "authors": "C Nakcho, D KWEON, CHO Seongmin, AN Chiwook",
+      "venue": "US Patent 12,484,425, 2025"
+    },
+    {
+      "title": "Display device, method of fabricating the same, and tiled display device including a plurality of display devices",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=80&citation_for_view=RUPcxioAAAAJ:WA5NYHcadZ8C",
+      "year": "2025",
+      "citations": "",
+      "authors": "NC CHOI, SW An, YD SON, MK Hur",
+      "venue": "US Patent 12,464,873, 2025"
+    },
+    {
+      "title": "Light emitting display device",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=80&citation_for_view=RUPcxioAAAAJ:1qzjygNMrQYC",
+      "year": "2025",
+      "citations": "",
+      "authors": "NC CHOI, TG Lee, KS Lee, YK In",
+      "venue": "US Patent 12,457,856, 2025"
+    },
+    {
+      "title": "Display panel and electronic apparatus including the same",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=80&citation_for_view=RUPcxioAAAAJ:1yQoGdGgb4wC",
+      "year": "2025",
+      "citations": "",
+      "authors": "C Nakcho, S Kim",
+      "venue": "US Patent App. 19/198,465, 2025"
+    },
+    {
+      "title": "Electronic device and method of manufacturing display device",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=80&citation_for_view=RUPcxioAAAAJ:ZuybSZzF8UAC",
+      "year": "2025",
+      "citations": "",
+      "authors": "C Nakcho, JK Chung",
+      "venue": "US Patent App. 19/008,052, 2025"
+    },
+    {
+      "title": "Display device having bumps of different elastic moduli",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=80&citation_for_view=RUPcxioAAAAJ:XiVPGOgt02cC",
+      "year": "2025",
+      "citations": "",
+      "authors": "NC CHOI, SW An",
+      "venue": "US Patent 12,439,754, 2025"
+    },
+    {
+      "title": "Display device, method of manufacturing the display device, and electronic device including the display device",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=80&citation_for_view=RUPcxioAAAAJ:N5tVd3kTz84C",
+      "year": "2025",
+      "citations": "",
+      "authors": "C Nakcho, B Park",
+      "venue": "US Patent App. 19/009,485, 2025"
+    },
+    {
+      "title": "Display panel, tiled display device including the same, and method of manufacturing display panel",
+      "detail_url": "/citations?view_op=view_citation&hl=ko&user=RUPcxioAAAAJ&cstart=80&citation_for_view=RUPcxioAAAAJ:olpn-zPbct0C",
+      "year": "2025",
+      "citations": "",
+      "authors": "NC CHOI, SW An",
+      "venue": "US Patent 12,368,045, 2025"
+    }
+  ]
+}
