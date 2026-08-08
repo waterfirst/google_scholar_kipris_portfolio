@@ -9,7 +9,7 @@
 
 profiles:
   # 예시 1) OLED/디스플레이 연구자 — 키워드 2개 이상이라 임계값 2로 충분
-  - name_ko: "최낙초"                 # KIPRIS(한글 특허) 검색용 — 실제 한글명으로 교체
+  - name_ko: "최낙초"                 # KIPRIS(한글 특허) 검색용 한글명
     name_en: "Nak Cho Choi"           # Google Scholar 검색용 영문명
     affiliations:                     # 소속(국문·영문 병기 권장)
       - "Samsung Display"
