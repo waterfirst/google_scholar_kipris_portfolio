@@ -1,0 +1,20 @@
+# secrets & local config
+.env
+config.yaml
+
+# generated reports
+report.html
+report.md
+*.report.html
+*.report.md
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env.local
+
+# os
+.DS_Store
