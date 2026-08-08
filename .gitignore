@@ -5,6 +5,8 @@ config.yaml
 # generated reports
 report.html
 report.md
+report_*.html
+report_*.md
 *.report.html
 *.report.md
 

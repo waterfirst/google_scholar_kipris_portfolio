@@ -1,35 +1,45 @@
-# 검색 대상 프로필 — 동명이인을 걸러내는 기준을 여기서 정합니다.
-target:
-  # KIPRIS(한글 특허) 검색에 쓰는 이름
-  name_ko: "홍길동"
-  # Google Scholar 검색에 쓰는 영문 이름
-  name_en: "Gildong Hong"
+# 검색 대상 프로필 — 이름 + 분야 키워드로 동명이인을 걸러냅니다.
+#
+# profiles 아래에 여러 명을 넣으면 한 번 실행으로 사람별 보고서를 각각 만듭니다.
+# (report_<이름>.html / report_<이름>.md)
+#
+# 점수 규칙: 소속 1건 = +2점, 키워드 1건 = +1점.
+#   match_threshold 이상이면 '본인 성과', 미만이면 '확인 필요'로 분리됩니다.
+#   키워드가 적으면(예: 1개) match_threshold 를 1로 낮추세요.
 
-  # 소속기관. 논문의 저자 소속 / 특허의 출원인·주소와 대조해 가점합니다.
-  # 국문·영문 표기를 모두 넣어두면 매칭률이 올라갑니다.
-  affiliations:
-    - "Samsung Display"
-    - "삼성디스플레이"
-    - "Seoul National University"
-    - "서울대학교"
+profiles:
+  # 예시 1) OLED/디스플레이 연구자 — 키워드 2개 이상이라 임계값 2로 충분
+  - name_ko: "최낙초"                 # KIPRIS(한글 특허) 검색용 — 실제 한글명으로 교체
+    name_en: "Nak Cho Choi"           # Google Scholar 검색용 영문명
+    affiliations:                     # 소속(국문·영문 병기 권장)
+      - "Samsung Display"
+      - "삼성디스플레이"
+    keywords:                         # 분야 키워드(국문·영문 병기 권장)
+      - "OLED"
+      - "display"
+      - "디스플레이"
+      - "thin film"
+      - "박막"
+    match_threshold: 2
 
-  # 연구/기술 분야 키워드. 논문 제목·초록, 특허 제목·요약과 대조해 가점합니다.
-  keywords:
-    - "OLED"
-    - "display"
-    - "thin film transistor"
-    - "디스플레이"
-
-  # 이 점수 미만인 결과는 본문 대신 "확인 필요" 섹션으로 분리됩니다.
-  # (소속 1건 매칭 = +2점, 키워드 1건 매칭 = +1점)
-  match_threshold: 2
+  # 예시 2) 화장품 연구자 — 소속을 모르면 비우고, 키워드를 늘리거나 임계값을 1로
+  - name_ko: "이준배"
+    name_en: "Jun Bae Lee"
+    affiliations: []
+    keywords:
+      - "cosmetic"
+      - "화장품"
+      - "skincare"
+      - "formulation"
+      - "emulsion"
+    match_threshold: 1
 
 scholar:
-  # 수집할 최대 논문 수
+  # 프로필당 수집할 최대 논문 수
   max_results: 50
 
 kipris:
-  # 수집할 최대 특허 수
+  # 프로필당 수집할 최대 특허 수
   max_results: 100
   # 검색 대상: applicant(출원인) 또는 inventor(발명자)
   search_field: inventor
