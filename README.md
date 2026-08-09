@@ -43,22 +43,40 @@ cp config.example.yaml config.yaml   # 이름/소속/키워드 입력
 
 ## 검색 대상 설정 (`config.yaml`)
 
-동명이인을 거르는 기준을 여기서 정합니다.
+동명이인을 거르는 기준을 여기서 정합니다. `profiles` 아래에 **여러 명**을 넣으면
+한 번 실행으로 사람별 보고서를 각각 만듭니다.
 
 ```yaml
-target:
-  name_ko: "홍길동"                # KIPRIS(한글) 검색용
-  name_en: "Gildong Hong"          # Google Scholar 검색용
-  affiliations:                    # 소속기관 (하나라도 맞으면 가점)
-    - "Samsung Display"
-    - "삼성디스플레이"
-    - "Seoul National University"
-  keywords:                        # 연구/기술 분야 (제목·초록 대조)
-    - "OLED"
-    - "display"
-    - "thin film"
-  match_threshold: 1               # 이 점수 미만이면 "확인 필요"로 분리
+profiles:
+  - name_ko: "최낙초"               # KIPRIS(한글) 검색용
+    name_en: "Nak Cho Choi"         # Google Scholar 검색용
+    affiliations:                   # 소속기관 (하나라도 맞으면 +2점)
+      - "Samsung Display"
+      - "삼성디스플레이"
+    keywords:                       # 연구/기술 분야 (제목·초록 대조, 1건당 +1점)
+      - "OLED"
+      - "display"
+      - "디스플레이"
+    match_threshold: 2              # 이 점수 미만이면 "확인 필요"로 분리
+
+  - name_ko: "이준배"
+    name_en: "Jun Bae Lee"
+    affiliations: []                # 소속을 모르면 비워도 됨
+    keywords: ["cosmetic", "화장품", "skincare"]
+    match_threshold: 1              # 키워드가 적으면 임계값을 낮춤
 ```
+
+### 동명이인 필터링 점수 규칙
+
+| 항목 | 가점 |
+|---|---|
+| 소속(affiliation) 1건 매칭 | +2점 |
+| 키워드(keyword) 1건 매칭 | +1점 |
+
+논문/특허의 제목·초록·소속·출원인 텍스트에 등록한 값이 걸리면 점수가 쌓이고,
+`match_threshold` 이상이면 본인 성과로 채택, 미만이면 "확인 필요"로 분리합니다.
+키워드는 개수 제한이 없으며 **이름 + 분야 키워드 3~7개** 조합이 가장 안정적입니다.
+국문·영문을 함께 넣으면 매칭률이 올라갑니다.
 
 ## 실행
 
@@ -66,8 +84,8 @@ target:
 python -m src.main --config config.yaml --out report
 ```
 
-- `report.html` : 브라우저에서 볼 수 있는 포트폴리오 보고서
-- `report.md`   : Markdown 보고서
+- 프로필이 1명이면 `report.html` / `report.md`
+- 프로필이 여러 명이면 사람별로 `report_<이름>.html` / `report_<이름>.md`
 
 ## 프로젝트 구조
 
